@@ -1,0 +1,6 @@
+[package]
+name = "var-watcher"
+version = "0.0.1"
+authors = ["Keith Yeung <kungfukeith11@gmail.com>"]
+
+[dependencies]
