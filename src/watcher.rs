@@ -1,6 +1,6 @@
 use std::collections::HashSet;
 
-struct Watcher<T> {
+pub struct Watcher<T> {
     value: T,
     callbacks: HashSet<fn()>
 }
