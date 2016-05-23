@@ -4,4 +4,4 @@ Variable Watcher is a Rust crate that provides a wrapper around a variable, and 
 
 ## Future improvements
 * Generalize all sorts of function pointers stored by using the std::ops::Fn trait
-* Make it possible for callbacks to have arguments
+* Use &-pointer instead of a *-pointer for callbacks
