@@ -1,6 +1,11 @@
 [package]
 name = "var-watcher"
-version = "0.0.1"
+version = "0.1.0"
+description = "Watch for changes to a variable and initiate registered callbacks"
+repository = "https://github.com/KiChjang/var-watcher"
+readme = "README.md"
 authors = ["Keith Yeung <kungfukeith11@gmail.com>"]
+keywords = ["watcher", "listener", "variable"]
+license-file = "LICENSE"
 
 [dependencies]
